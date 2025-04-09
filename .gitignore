@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+motoron_env/
+*.log
+*.sqlite3
+*.bak
